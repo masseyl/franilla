@@ -1,0 +1,12 @@
+{
+  "name": "parc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "postcss-modules": "^1.4.1"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.1.5"
+  }
+}

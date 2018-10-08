@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  width: 92%;
+  color: purple;
+}
+.photo {
+  border: 1px solid blue;
+  pointer-events: none;
+}
+.title {
+  font-size: 14px;
+  pointer-events: none;
+}
+.body {
+  font-size: 12;
+  pointer-events: none;
+}

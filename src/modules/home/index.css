@@ -1,0 +1,14 @@
+.container {
+  width: 100vw, auto;
+  height: 100vh;
+  background-color: red;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  overflow-y: scroll;
+  border: 1px dashed red;
+}
+.box {
+  border: 1px solid blue;
+}
